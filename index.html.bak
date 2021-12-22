@@ -2,6 +2,10 @@
             "http://www.w3.org/TR/html4/loose.dtd">
     <html>
     <head>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	
+	
     <title>lanehead</title>
     </head>
 	
@@ -9,7 +13,11 @@
 brave strong manipulative
 <br>deranged</br>
 <html>
-  <head><title>about</title></head>
+  <head>
+  
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  
+  <title>about</title></head>
   <body>
      <h1></h1>
      <p><a href="./lanehead%20page2.html">about</a></p>
