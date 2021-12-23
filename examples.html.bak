@@ -4,12 +4,6 @@
     <html>
     <head>
 	
-	
-	<audio controls autoplay>
-  <source src="holyholyholy.mp3" type="audio/mp3">
-
-  Your browser does not support the audio tag. 
-</audio>
 
 
    <a href="./index.html" target="_self">home</a>
