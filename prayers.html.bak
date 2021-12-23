@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+<!D<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
             "http://www.w3.org/TR/html4/loose.dtd">
     <html>
     <head>
@@ -28,10 +28,11 @@
 				
 				
 				
-				<br><br><b>For whom or what would you like us to pray?</b>
+				<br><b>For whom or what would you like us to pray?</b>
 				
 		<br><input type="text" name="request" value="request">
-		<br><button type="submit">submit</button>
+		<br><br><button type="submit">submit</button>
+		
 		
 		<input type="hidden" name="_captcha" value="false">
 
@@ -42,7 +43,6 @@
 	
     </body>
     </html>
-
    
 
 <!--================== Imported Names ====================================-->
